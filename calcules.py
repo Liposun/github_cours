@@ -16,3 +16,4 @@ def listDiviseur(self):
 mon_calcul=calcul(4)
 print("Le facorielle de ce nombre est ", mon_calcul.factorielle())
 print("Je suis beau gosse hahaha")
+print("Avancement")
